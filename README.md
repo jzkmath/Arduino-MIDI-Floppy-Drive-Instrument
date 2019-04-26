@@ -27,3 +27,7 @@ We need to connect "drive select" together (Pins 11 and 12) to enable the drive 
 20 - Step
 
 19 - Step Ground
+
+
+## NOTE:
+There is a two pin header (J14) that is the programming jumper. The jumper should be installed here and removed when the Arduino is being programmed. This is because the MIDI Rx line is also use to program the Arduino when its being flashed.
