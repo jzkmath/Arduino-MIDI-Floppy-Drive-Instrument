@@ -11,7 +11,7 @@ Refer to the schematic for pinouts. The header pins connect to the IDE connector
 
 Look at this pinout:
 
-![IDE Pinout](https://cdn.instructables.com/FA2/D1UA/H2MYK9RN/FA2D1UAH2MYK9RN.LARGE.jpg)
+![IDE Pinout](https://github.com/jzkmath/Arduino-MIDI-Floppy-Drive-Instrument/blob/master/KiCAD/Pluralsight_Floppy/PinOut.jpg)
 
 We need to connect "drive select" together (Pins 11 and 12) to enable the drive and then connect the Step and Direction to the Shield. 
 
