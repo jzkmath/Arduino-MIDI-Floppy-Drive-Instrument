@@ -15,7 +15,15 @@ Look at this pinout:
 
 We need to connect "drive select" together (Pins 11 and 12) to enable the drive and then connect the Step and Direction to the Shield. 
 
-PINOUT:
-11 - Drive Select (Enable)
-12 - Drive Select Ground
-17 - 
+### PINOUT:
+12 - Drive Select (Enable)
+
+11 - Drive Select Ground
+
+18 - Direction
+
+17 - Direction Ground
+
+20 - Step
+
+19 - Step Ground
